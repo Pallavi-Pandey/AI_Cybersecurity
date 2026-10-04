@@ -1,5 +1,7 @@
 # 6. Career Roadmap
 
+**Theory time: 35 min** · Hands-on: [lab 06](../labs/06-career-roadmap/README.md)
+
 ## Roles to aim for
 - SOC analyst, detection engineer, incident responder, threat hunter
 - Cloud security engineer, application security engineer

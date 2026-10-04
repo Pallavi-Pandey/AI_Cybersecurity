@@ -1,5 +1,7 @@
 # 2. Generative AI & Cyber Threats
 
+**Theory time: 45 min** · Hands-on: [lab 02](../labs/02-generative-ai-and-cyber-threats/README.md)
+
 ## Attacker use of GenAI
 - Convincing phishing and spear-phishing at scale, in any language.
 - Deepfake voice/video for impersonation and business email compromise.

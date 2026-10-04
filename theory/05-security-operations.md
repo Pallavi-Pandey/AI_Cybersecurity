@@ -1,5 +1,7 @@
 # 5. Security Operations
 
+**Theory time: 35 min** · Hands-on: [lab 05](../labs/05-security-operations/README.md)
+
 ## The SOC
 - Roles: Tier 1 analyst, Tier 2/3 responder, threat hunter, detection engineer, SOC manager.
 - Tooling: SIEM, EDR/XDR, SOAR, threat-intel platforms, ticketing.

@@ -1,5 +1,7 @@
 # 4. Incident Response
 
+**Theory time: 40 min** · Hands-on: [lab 04](../labs/04-incident-response/README.md)
+
 ## Lifecycle (NIST SP 800-61)
 1. Preparation
 2. Detection and analysis

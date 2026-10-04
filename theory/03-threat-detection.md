@@ -1,5 +1,7 @@
 # 3. Threat Detection
 
+**Theory time: 40 min** · Hands-on: [lab 03](../labs/03-threat-detection/README.md)
+
 ## Fundamentals
 - Data sources: endpoint, network, identity, cloud, application logs.
 - Detection types: signature, heuristic/rule-based, behavioral/anomaly, threat-intel matching.

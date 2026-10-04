@@ -1,5 +1,7 @@
 # 1. AI in Cybersecurity
 
+**Theory time: 45 min** · Hands-on: [lab 01](../labs/01-ai-in-cybersecurity/README.md)
+
 ## Why it matters
 - Attack volume and alert counts exceed what human analysts can triage manually.
 - AI/ML adds speed and pattern recognition; humans keep judgment and context.
