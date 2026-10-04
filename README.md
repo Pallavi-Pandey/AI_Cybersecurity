@@ -28,3 +28,7 @@ Each topic has a theory module and a matching lab. Labs use Python (`pip install
 ## Suggested flow
 
 Run each theory block followed by its lab (theory then practice), or do all theory first and all labs after. Add breaks as needed on top of the 8 hours of content.
+
+## Facilitators
+
+Solution keys for all six labs, with worked answers and tested solution code, are in [solutions/](solutions/README.md).

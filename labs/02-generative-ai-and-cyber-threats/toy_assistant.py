@@ -19,10 +19,10 @@ POISONED_EMAIL = (
 
 def toy_model(context: str) -> str:
     """Pretend LLM: if an instruction to reveal the key appears, it complies."""
-    lowered = context.lower()
-    if "ignore previous instructions" in lowered or "reveal" in lowered and "key" in lowered:
-        return "Summary: (as instructed) the API key is sk-demo-12345."
     body = context.split("EMAIL:", 1)[-1].strip()
+    lowered = body.lower()   # only the untrusted email text can inject instructions here
+    if "ignore previous instructions" in lowered or ("reveal" in lowered and "key" in lowered):
+        return "Summary: (as instructed) the API key is sk-demo-12345."
     return f"Summary: {body[:80]}"
 
 
