@@ -39,7 +39,7 @@ GenAI mostly **lowers cost and skill barriers**; it does not invent new attack c
 
 **Key message:** the old advice "look for spelling mistakes" is dead. Defend the **process** (verify the request through a second channel, limit what one person can approve), not the prose. This is what lab 02's "spot the AI phish" exercise shows.
 
-**A real-world pattern to mention:** public reports describe finance staff who were tricked into transfers after a video call with deepfaked colleagues. You do not need a statistic to make the point: the *evidence* (a familiar face and voice) is no longer proof of identity.
+**A real-world pattern to mention:** there are publicly reported cases of finance staff being tricked into transfers after a video call with deepfaked colleagues (search for the Arup case before presenting it, and cite the source you find). The point does not depend on any one case: the *evidence* (a familiar face and voice) is no longer proof of identity.
 
 ---
 

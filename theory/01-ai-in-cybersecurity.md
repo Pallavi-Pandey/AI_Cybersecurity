@@ -12,7 +12,7 @@
 
 ## 1. Why defenders need help
 
-A mid-sized company can generate millions of log lines a day: logins, DNS lookups, file accesses, process starts, firewall decisions. A security team of a few analysts cannot read them. Tools turn the logs into **alerts**, and the alerts are then more than people can triage. Surveys of security teams regularly report that a large share of alerts are never investigated, and attackers know it: a quiet intrusion hides in the noise.
+A mid-sized company can generate millions of log lines a day: logins, DNS lookups, file accesses, process starts, firewall decisions. A security team of a few analysts cannot read them. Tools turn the logs into **alerts**, and the alerts are then more than people can triage. In practice many alerts get only a quick look or none at all, and attackers count on it: a quiet intrusion hides in the noise.
 
 Two things grow faster than headcount:
 - **Volume** of events and alerts (more cloud services, more devices, more remote work).

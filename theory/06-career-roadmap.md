@@ -13,7 +13,7 @@
 
 ## 1. The job market in context
 
-Cybersecurity has more openings than qualified people in most regions, and the gap is widest in practical, hands-on skills. Employers look less for a long list of certificates and more for **evidence that you can do the work**: investigate a log, write a script, explain a risk clearly.
+Employers in many regions report difficulty finding people with practical, hands-on security skills. Employers look less for a long list of certificates and more for **evidence that you can do the work**: investigate a log, write a script, explain a risk clearly.
 
 AI changes the mix:
 - **Routine tasks** (first-pass triage, summarising, boilerplate scripts and queries) are being automated or assisted.
